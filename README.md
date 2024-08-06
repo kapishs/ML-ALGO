@@ -57,7 +57,7 @@ The notebook demonstrates the following steps:
 4. **Model Evaluation**: Evaluate the model's performance using appropriate metrics.
 5. **Visualization**: Visualize the results and the regression line.
 
-## Results
+### Results
 
 The notebook includes visualizations of the dataset and the linear regression model. The performance metrics of the model are also displayed.
 
